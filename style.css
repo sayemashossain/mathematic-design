@@ -1,0 +1,30 @@
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgb(74, 74, 74);
+    padding: 2rem;
+    height: 100vh;
+}
+
+/* .canvas{
+    background-color: rgb(214, 214, 214);
+     height: 100%;
+    width: 100%;  
+
+} */
+
+#canvasDiv {
+
+    background-color: rgb(214, 214, 214);
+    height: 100%;
+    width: 100%; 
+}
